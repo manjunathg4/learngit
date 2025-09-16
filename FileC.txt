@@ -1,2 +1,3 @@
 This is File C
 This is the changes made to File C
+File changed for Squash
