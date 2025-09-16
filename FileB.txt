@@ -3,3 +3,4 @@ This is the change
 Lets make change B file
 Another change to File B to check on Main branch
 made another changes to check the conflict
+change for Squash merge
